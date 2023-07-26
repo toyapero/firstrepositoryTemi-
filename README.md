@@ -1,0 +1,2 @@
+# firstrepositoryTemi-
+Devops Journey
